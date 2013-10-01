@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:NSData"
+      name = "NSData">
+      <FileRef
+         location = "group:NSData+Offset.h">
+      </FileRef>
+      <FileRef
+         location = "group:NSData+Offset.m">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:NSDate"
+      name = "NSDate">
+      <FileRef
+         location = "group:NSDate+DaysAgo.h">
+      </FileRef>
+      <FileRef
+         location = "group:NSDate+DaysAgo.m">
+      </FileRef>
+      <FileRef
+         location = "group:NSDate+Extensions.h">
+      </FileRef>
+      <FileRef
+         location = "group:NSDate+Extensions.m">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:StoreKit"
+      name = "StoreKit">
+      <FileRef
+         location = "group:SKProductsRequest+BBlock.h">
+      </FileRef>
+      <FileRef
+         location = "group:SKProductsRequest+BBlock.m">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:UIKit"
+      name = "UIKit">
+      <FileRef
+         location = "group:UIActionSheet+Block.h">
+      </FileRef>
+      <FileRef
+         location = "group:UIActionSheet+Block.m">
+      </FileRef>
+      <FileRef
+         location = "group:UIAlertView+Block.h">
+      </FileRef>
+      <FileRef
+         location = "group:UIAlertView+Block.m">
+      </FileRef>
+      <FileRef
+         location = "group:UIImage+FixOrientation.h">
+      </FileRef>
+      <FileRef
+         location = "group:UIImage+FixOrientation.m">
+      </FileRef>
+   </Group>
+</Workspace>
