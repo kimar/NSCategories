@@ -69,4 +69,14 @@
          location = "group:NSString+Validation.m">
       </FileRef>
    </Group>
+   <Group
+      location = "group:NSMutableArray"
+      name = "NSMutableArray">
+      <FileRef
+         location = "group:NSMutableArray+Modification.h">
+      </FileRef>
+      <FileRef
+         location = "group:NSMutableArray+Modification.m">
+      </FileRef>
+   </Group>
 </Workspace>
