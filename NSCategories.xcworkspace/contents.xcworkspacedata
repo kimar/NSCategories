@@ -59,4 +59,14 @@
          location = "group:UIImage+FixOrientation.m">
       </FileRef>
    </Group>
+   <Group
+      location = "group:NSString"
+      name = "NSString">
+      <FileRef
+         location = "group:NSString+Validation.h">
+      </FileRef>
+      <FileRef
+         location = "group:NSString+Validation.m">
+      </FileRef>
+   </Group>
 </Workspace>
