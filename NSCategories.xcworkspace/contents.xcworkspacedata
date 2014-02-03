@@ -86,4 +86,14 @@
          location = "group:NSMutableArray+Modification.m">
       </FileRef>
    </Group>
+   <Group
+      location = "group:CoreData"
+      name = "CoreData">
+      <FileRef
+         location = "group:CoreDataHelper.h">
+      </FileRef>
+      <FileRef
+         location = "group:CoreDataHelper.m">
+      </FileRef>
+   </Group>
 </Workspace>
